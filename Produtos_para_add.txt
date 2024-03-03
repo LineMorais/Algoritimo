@@ -1,0 +1,31 @@
+Codigo: 7896448195001
+NomeBrinquedo: Boneca Minnie Patinadora com Sons
+Categoria: Bonecas
+Fabricante:Elka
+IdadeRecomendada: apartir de 1
+Preco: 123,99
+QtdEstoque: 20
+
+Codigo: 5010993690923
+NomeBrinquedo:Boneco Articulado Homem Aranha Titan Hero Series
+Categoria: Bonecos e cenários
+Fabricante: Hasbro
+IdadeRecomendada:apartir de 6
+Preco: 94,99
+QtdEstoque: 30
+
+Codigo: 7898638891922
+NomeBrinquedo: Caminhão de bombeiro com luz e som e fricção
+Categoria: Carinhos
+Fabricante: Shiny Toys
+IdadeRecomendada:apartir de 6
+Preco:141,99
+QtdEstoque: 5
+
+Codigo: 7896027560367
+NomeBrinquedo: Jogo de Tabuleiro - Banco Imobiliário
+Categoria: Jogos
+Fabricante: Estrela
+IdadeRecomendada: apartir de 10
+Preco: 136,00
+QtdEstoque: 10
